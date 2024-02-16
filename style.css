@@ -1,0 +1,38 @@
+h1 {
+  border-style:dashed;
+border-color:pink;
+ width:700px;
+}
+
+em { color:
+#E19A9A;
+
+}
+
+
+h3 {color:#E19A9A;
+}
+
+p {
+  font-weight:200px;
+   border-style:dotted;
+      border-width:3px;
+     border-color:pink;
+    color:#C08383;
+  padding: 10px;
+ line-height:30px;
+  width:600px;
+}
+
+img { padding: 30px;
+
+
+}
+
+
+strong { color:#BC6969;
+
+}
+
+h6 {color:#E19A9A;
+}
